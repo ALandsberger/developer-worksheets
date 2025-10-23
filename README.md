@@ -33,6 +33,14 @@ There are two basic types of functions: those that use the values you enter, and
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## Worksheet Criteria
 
 For details about how to specify criteria such as the object type, class, or visibility, refer to the following page: [Search Criteria Format](Articles/Search%20Criteria%20Format.md).
