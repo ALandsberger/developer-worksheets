@@ -18,6 +18,21 @@ There are two basic types of functions: those that use the values you enter, and
 
 * **Criteria arguments:** Functions that begin with a capital letter must be applied to one or more specific objects in the drawing. In a cell in a database header row, a function is automatically applied to the object listed in each sub-row, so no criteria argument is required. However, in a spreadsheet cell, you must enter criteria to select the objects the function applies to. For example, the `Area` function returns the combined area of all 2D objects that meet the criteria. To specify which objects to obtain the area of, either use the `Insert > Criteria` command on the `Worksheet` menu, or enter the criteria manually.
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 ## Worksheet Criteria
 
 For details about how to specify criteria such as the object type, class, or visibility, refer to the following page: [Search Criteria Format](Articles/Search%20Criteria%20Format.md).
